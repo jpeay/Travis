@@ -12,4 +12,4 @@
 
 	Next, click the x and then the drop-down menu bar. This will bring up the mobile view.  To navigate the mobile layout use the navigation arrows.  To view the image using the light-box click on the image.  To exit the mobile drop-down, click the square at the top of the screen between the minimize button and the X.  
 
-Thank you coming to visit, please come again, soon  
+Thank you for visiting, please come again, soon  
