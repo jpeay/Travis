@@ -1,6 +1,6 @@
   Hello. 
 
-	I developed this website for a friend, who owns a business, called East Cobb Customs.  East Cobb Customs does work creating automotive wrapping for all vehicular types, (e.g.  automotive, aircraft, and boat.  He began promoting his work through social media sites, like Facebook, Twitter, and Instagram. 
+	I developed this website for a friend, who owns a business, called East Cobb Customs.  East Cobb Customs does work creating automotive wrapping for all vehicular types, (e.g.  automotive, aircraft, and boat.  He began promoting his work through social media sites, like Facebook, and Twitter. 
 
 	The website contains a home page, a portfolio page, an about page, and a contact page.  
     
